@@ -2,7 +2,7 @@
 
 Welcome to my **League of Legends Pixel Art Repository**! This project features a collection of pixel art renditions of various League of Legends skins. Will be adding more progressively if I have time! (Credits to the original artists and their concept arts that were used as reference)
 
-## 🔥 Preview
+## 🔥 Preview <img src="./slowitsgood.gif"></img>
 
 | 🏆 Skin Name        | 🎥 Preview |
 |-----------------|---------|
