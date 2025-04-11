@@ -6,8 +6,9 @@ Welcome to my **League of Legends Pixel Art Repository**! This project features 
 
 | 🏆 Skin Name        | 🎥 Preview |
 |-----------------|---------|
-| Ashen Knight Pyke     | <img src="./pyke.gif"></img> |
-| T1 Bard | <img src="./bard.gif"></img> |
+| Ashen Knight Pyke     | <div align="center"><img src="./pyke.gif"></img></div> |
+| T1 Bard | <div align="center"><img src="./bard.gif"></img></div> |
+| Fae Dragon Ashe | <div align="center"><img src="./ashe.gif"></img></div> |
 
 ## 🤝 Contributions
 Feel free to contribute by submitting pull requests with new skins or improvements!
